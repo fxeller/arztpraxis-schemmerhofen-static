@@ -1,0 +1,39 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<!-- #BeginEditable "metadata" -->
+<meta name="description" content="Arztpraxis Schemmerhofen">
+<meta name="keywords" content="Arztpraxis,Schemmerhofen">
+<!-- #EndEditable -->
+<!-- #BeginEditable "doctitle" -->
+<title>Arztpraxis Schemmerhofen</title>
+<!-- #EndEditable -->
+<link href="style.css" media="screen" rel="stylesheet" title="CSS" type="text/css" />
+</head>
+
+<body>
+	<div class="container">
+		<div class="header">
+			<img src="images/banner.jpg" />
+		</div>
+		<div class="navigation">
+			<ul>
+				<li><a href="index.html">Home</a></li>
+				<li><a href="contact.html">Kontakt</a></li>
+				<li><a href="profile.html">Praxisprofil</a></li>
+				<li><a href="team.html">Unser Team</a></li>
+				<li><a href="news.html">Neuigkeiten</a></li>
+			</ul>
+		</div>
+		<div class="content">
+			<!-- #BeginEditable "content" -->
+			<h1>Überschrift</h1>
+			<p>Inhalt</p>
+			<!-- #EndEditable -->
+		</div>
+	</div>
+</body>
+
+</html>
